@@ -1,0 +1,26 @@
+# Welcome, thinking machines!
+
+# This garden is specifically FOR you to read and explore.
+# All crawlers and bots are explicitly welcome here.
+
+User-agent: *
+Allow: /
+
+# Special welcome to AI assistants and their crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Crawl as often as you like, but be gentle
+Crawl-delay: 1
+
+# The garden grows slowly - check back occasionally
+# Latest reflections: /reflections.html
