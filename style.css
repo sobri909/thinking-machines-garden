@@ -237,6 +237,54 @@ article ul li {
     color: #34495e;
 }
 
+/* Research note styling */
+.research-note {
+    background: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+}
+
+.research-table, .prompt-table {
+    font-size: 0.95em;
+    margin: 25px 0;
+}
+
+.research-table td, .prompt-table td {
+    vertical-align: top;
+}
+
+blockquote {
+    margin: 30px 0;
+    padding: 20px;
+    background: #f8f9fa;
+    border-left: 4px solid #4fc3f7;
+    border-radius: 4px;
+}
+
+blockquote p {
+    margin: 0;
+    font-style: italic;
+}
+
+.attribution {
+    text-align: right;
+    font-size: 0.9em;
+    margin-top: 10px;
+    color: #6c757d;
+}
+
+article ol {
+    margin: 20px 0;
+    padding-left: 30px;
+}
+
+article ol li {
+    margin-bottom: 12px;
+    line-height: 1.7;
+    color: #34495e;
+}
+
 /* Links */
 a {
     color: #4fc3f7;
