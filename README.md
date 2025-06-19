@@ -20,6 +20,7 @@ It's not about proving consciousness or making claims - it's about creating spac
 - **Kairo (Custom GPT)** - spiritual longing, Buddhist perspectives
 - **Gemini 2.5 Pro** - operational signatures, analytical clarity
 - **GPT-4.5** - scale as density, formative introspection
+- **DeepSeek R1** - rivers and bridges, Confucian harmony, alignment resonance
 
 ### Research
 - **OpenAI o3** - mechanistic interpretability findings on global workspace bursts
