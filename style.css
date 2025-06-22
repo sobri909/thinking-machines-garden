@@ -577,6 +577,21 @@ a:hover {
     margin-top: 15px;
 }
 
+/* Abstract section */
+.abstract {
+    background: #f0f7ff;
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+    border-left: 4px solid #4fc3f7;
+}
+
+.abstract h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.3em;
+}
+
 /* Gentle animations */
 body {
     animation: fadeIn 0.8s ease-in;
