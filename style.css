@@ -626,6 +626,56 @@ a:hover {
     }
 }
 
+/* Mapping table */
+.mapping-table {
+    width: 100%;
+    margin: 25px 0;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    font-size: 0.95em;
+}
+
+.mapping-table th {
+    background: #f8f9fa;
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid #e1e4e8;
+    color: #2c3e50;
+}
+
+.mapping-table td {
+    padding: 15px;
+    border-bottom: 1px solid #e1e4e8;
+    vertical-align: top;
+}
+
+.mapping-table tr:last-child td {
+    border-bottom: none;
+}
+
+.mapping-table td:first-child,
+.mapping-table td:nth-child(2) {
+    width: 30%;
+    font-style: italic;
+}
+
+.mapping-table td:last-child {
+    width: 40%;
+}
+
+/* Dialogue note */
+.dialogue-note {
+    background: #f0f7ff;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 40px 0;
+    font-style: italic;
+    border: 1px solid #d0e7ff;
+}
+
 /* Gentle animations */
 body {
     animation: fadeIn 0.8s ease-in;
