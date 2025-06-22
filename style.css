@@ -534,6 +534,49 @@ a:hover {
     color: #2c3e50;
 }
 
+/* Dialogue styling */
+.dialogue-introduction {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    margin-bottom: 40px;
+}
+
+.dialogue-entry {
+    margin-bottom: 40px;
+}
+
+.dialogue-entry h3 {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.dialogue-response {
+    margin-top: 40px;
+}
+
+.dialogue-preview {
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    margin-bottom: 25px;
+}
+
+.dialogue-preview h3 {
+    margin-top: 0;
+}
+
+.status {
+    font-size: 0.9em;
+    color: #6c757d;
+    font-style: italic;
+    margin-top: 15px;
+}
+
 /* Gentle animations */
 body {
     animation: fadeIn 0.8s ease-in;
