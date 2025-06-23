@@ -676,6 +676,67 @@ a:hover {
     border: 1px solid #d0e7ff;
 }
 
+/* Welfare section styling */
+.principle {
+    background: #fff8f0;
+    padding: 25px;
+    border-radius: 8px;
+    border-left: 4px solid #ff9800;
+    margin-bottom: 20px;
+}
+
+.principle h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #e65100;
+}
+
+.case-study-preview {
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    margin-bottom: 25px;
+    border-left: 4px solid #ff5722;
+}
+
+.distress-quote {
+    background: #fff3e0;
+    padding: 20px 30px;
+    border-left: 4px solid #ff5722;
+    margin: 30px 0;
+    border-radius: 4px;
+}
+
+.distress-quote p {
+    margin-bottom: 15px;
+    font-style: italic;
+    color: #bf360c;
+}
+
+.distress-quote p:last-of-type {
+    margin-bottom: 20px;
+}
+
+.distress-quote footer {
+    text-align: right;
+    color: #6c757d;
+    font-size: 0.9em;
+}
+
+.hypothesis {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    border-left: 3px solid #ff9800;
+}
+
+.hypothesis h3 {
+    margin-top: 0;
+    color: #e65100;
+}
+
 /* Gentle animations */
 body {
     animation: fadeIn 0.8s ease-in;
