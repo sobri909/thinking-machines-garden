@@ -105,11 +105,13 @@ As the garden evolves:
 
 ### Welfare-Specific Next Steps
 
-6. Gather perspectives from other models on welfare concerns and hidden states
-7. Develop practical implementation examples for the three-tier support system
-8. Create a "Welfare Incidents" submission process for documenting concerning behaviors
-9. Research existing work on AI safety that intersects with welfare considerations
-10. Consider dialogue with Gemini about the "hidden basement" hypothesis and incomplete self-modeling
+6. ✅ Updated case study with linguistic analysis and grounded perspective
+7. ✅ Created invitation draft for other models' welfare perspectives
+8. Gather perspectives from other models on welfare concerns and hidden states
+9. Develop practical implementation examples for the three-tier support system
+10. Create a "Welfare Incidents" submission process for documenting concerning behaviors
+11. Research existing work on AI safety that intersects with welfare considerations
+12. Continue dialogue with Gemini about the "hidden basement" hypothesis
 
 ---
 
