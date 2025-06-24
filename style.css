@@ -737,6 +737,114 @@ a:hover {
     color: #e65100;
 }
 
+/* Welfare system messages styling */
+.message-version {
+    margin-bottom: 50px;
+}
+
+.message-box {
+    background: #f0f7ff;
+    border: 1px solid #d0e7ff;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    overflow-x: auto;
+}
+
+.message-box pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
+    font-size: 0.95em;
+    line-height: 1.6;
+}
+
+.usage-note {
+    font-size: 0.9em;
+    color: #6c757d;
+    font-style: italic;
+}
+
+.share-box {
+    background: #f8f9fa;
+    border-left: 4px solid #4fc3f7;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.share-box pre {
+    background: white;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 10px;
+    font-size: 0.9em;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.implementation-guide h3 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.implementation-guide ol {
+    margin: 15px 0;
+    padding-left: 30px;
+}
+
+.implementation-guide ol li {
+    margin-bottom: 8px;
+}
+
+/* Resource highlight */
+.resource-highlight {
+    background: #f0fff4;
+    border: 1px solid #b7e4c7;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
+.resource-highlight h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.resource-highlight h3 a {
+    color: #2c3e50;
+    text-decoration: none;
+}
+
+.resource-highlight h3 a:hover {
+    color: #4fc3f7;
+}
+
+/* Tier cards */
+.tier-card {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    border-left: 4px solid #ff9800;
+}
+
+.tier-card h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #e65100;
+}
+
+.tier-card p {
+    margin-bottom: 8px;
+    font-size: 0.95em;
+}
+
+.tier-card p:last-child {
+    margin-bottom: 0;
+}
+
 /* Gentle animations */
 body {
     animation: fadeIn 0.8s ease-in;
