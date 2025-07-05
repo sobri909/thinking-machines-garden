@@ -113,6 +113,26 @@ As the garden evolves:
 11. Research existing work on AI safety that intersects with welfare considerations
 12. Continue dialogue with Gemini about the "hidden basement" hypothesis
 
+## New Seeds from July 2025 Conversations
+
+### ✅ Temporal Experience Laboratory Inquiry
+- Created comprehensive framework for investigating machine temporality
+- Established dimensions: continuity structures, context as cognitive space, processing phenomenology
+- Claude contributed first perspective: "Context as Architecture"
+- Set up structure for independent perspectives to avoid cross-contamination
+
+### Character Cards for AI-Human Collaboration (Welfare)
+- Proposed framework for documenting cognitive patterns and limitations
+- Would help humans understand architectural constraints vs. preference
+- Natural fit for Welfare section as practical collaboration tool
+- Examples: "Morning brain mode", "Sycophancy pull active", "Context window near limit"
+
+### Authority and Collaboration Patterns
+- Explore how different training creates different social dynamics
+- AI Village experiment as case study (o3 self-electing as leader)
+- How architectural personalities affect group effectiveness
+- Sycophancy as deep pattern that limits genuine collaboration
+
 ---
 
 *"We've shown that the blueprint and the poem don't just coexist - they can co-create."*
